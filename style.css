@@ -1,0 +1,32 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #373963;
+  text-align: center;
+}
+h1 {
+  font-family: cursive;
+  background-color: #5a5c82;
+}
+h2 {
+  font-family: cursive;
+  background-color: #5a5c82;
+}
+h4 {
+  font-family: cursive;
+  background-color: #5a5c82;
+}
+h3 {
+  font-family: cursive;
+  background-color: #5a5c82;
+}
+p {
+  background-color: #8c8ead;
+}
+header {
+  background: url(https://learn.logikaschool.com/uploads/student/5735466/681a5aaa6963f.jpg)
+    no-repeat center center/cover;
+  padding: 325px 50px;
+}
+header h1 {
+  background-color: transparent;
+}
